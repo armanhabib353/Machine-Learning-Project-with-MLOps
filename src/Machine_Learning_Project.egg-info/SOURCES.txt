@@ -1,0 +1,17 @@
+LICENSE
+README.md
+setup.py
+src/Machine Learning Project with MLOps/__init__.py
+src/Machine Learning Project with MLOps/components/__init__.py
+src/Machine Learning Project with MLOps/config/__init__.py
+src/Machine Learning Project with MLOps/config/configuration.py
+src/Machine Learning Project with MLOps/constants/__init__.py
+src/Machine Learning Project with MLOps/entity/__init__.py
+src/Machine Learning Project with MLOps/entity/config_entity.py
+src/Machine Learning Project with MLOps/pipeline/__init__.py
+src/Machine Learning Project with MLOps/utils/__init__.py
+src/Machine Learning Project with MLOps/utils/common.py
+src/Machine_Learning_Project.egg-info/PKG-INFO
+src/Machine_Learning_Project.egg-info/SOURCES.txt
+src/Machine_Learning_Project.egg-info/dependency_links.txt
+src/Machine_Learning_Project.egg-info/top_level.txt
