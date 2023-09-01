@@ -14,11 +14,7 @@ from typing import Any
 def read_yaml(path_to_yaml: Path) -> ConfigBox:
     """reads yaml file and returns
 
-    Args:
-        path_to_yaml (str): path like input
-
-    Raises:
-        Val
+    
    
 
 
