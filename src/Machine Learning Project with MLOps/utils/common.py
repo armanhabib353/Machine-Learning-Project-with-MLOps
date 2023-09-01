@@ -18,11 +18,7 @@ def read_yaml(path_to_yaml: Path) -> ConfigBox:
         path_to_yaml (str): path like input
 
     Raises:
-        ValueError: if yaml file is empty
-        e: empty file
-
-    
-    try:
+        Val
    
 
 
