@@ -8,7 +8,7 @@ __version__ = "1.0"
 
 REPO_NAME = "Machine Learning Project with MLOps"
 AUTHOR_USER_NAME = "Armanhabib353"
-SRC_REPO = "Machine Learning Project"
+SRC_REPO = "MLProjects"
 AUTHOR_EMAIL = "armanhabibmain@gmail.com"
 
 
