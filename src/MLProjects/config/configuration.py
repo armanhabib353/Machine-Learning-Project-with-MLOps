@@ -1,4 +1,3 @@
-from MLProjects.constants import *
 from MLProjects.utils.common import read_yaml, create_directories
 from MLProjects.config import *
 
