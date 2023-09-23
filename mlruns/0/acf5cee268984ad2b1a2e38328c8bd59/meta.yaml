@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/arman/Videos/Machine-Learning-Project-with-MLOps/mlruns/0/acf5cee268984ad2b1a2e38328c8bd59/artifacts
+end_time: 1695481385939
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: acf5cee268984ad2b1a2e38328c8bd59
+run_name: colorful-perch-102
+run_uuid: acf5cee268984ad2b1a2e38328c8bd59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695481382933
+status: 3
+tags: []
+user_id: arman
