@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/arman/Videos/Machine-Learning-Project-with-MLOps/mlruns/0/bba400fe42a945ac947f8288049f8343/artifacts
+end_time: 1695481327401
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bba400fe42a945ac947f8288049f8343
+run_name: lyrical-shrew-25
+run_uuid: bba400fe42a945ac947f8288049f8343
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695481324382
+status: 3
+tags: []
+user_id: arman
