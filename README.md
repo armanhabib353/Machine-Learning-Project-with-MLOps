@@ -1,5 +1,6 @@
 # Machine-Learning-Project-with-MLOps
 
+python 3.8
 
 ## Workflows
 

@@ -5,32 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c667d8b7-97af-46a5-b498-f0fad7530ea2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/artifacts/data_ingestion/data.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/artifacts/data_ingestion/winequality-red.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/config.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/config.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/running_logs.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/running_logs.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/params.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/params.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MLProjects.egg-info/PKG-INFO" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MLProjects.egg-info/SOURCES.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MLProjects.egg-info/dependency_links.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MLProjects.egg-info/top_level.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MLProjects/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MLProjects/components/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MLProjects/components/data_ingestion.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MLProjects/components/data_validation.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MLProjects/config/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MLProjects/config/configuration.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MLProjects/constants/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MLProjects/entity/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MLProjects/entity/config_entity.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MLProjects/pipeline/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MLProjects/pipeline/stage_01_data_ingestion.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MLProjects/pipeline/stage_02_data_validation.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MLProjects/utils/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MLProjects/utils/common.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/template.py" beforeDir="false" afterPath="$PROJECT_DIR$/template.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +30,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/arman/Videos/Machine-Learning-Project-with-MLOps",
+    "last_opened_file_path": "C:/Users/arman/Videos/labelImg",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
