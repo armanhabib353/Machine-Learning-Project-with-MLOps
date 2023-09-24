@@ -200,3 +200,34 @@ x==========x]
 [2023-09-24 15:23:09,576: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
 
 x==========x]
+[2023-09-24 15:29:10,332: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2023-09-24 15:29:10,348: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-09-24 15:29:10,359: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-09-24 15:29:10,367: INFO: common: yaml file: schema.yaml loaded successfully]
+[2023-09-24 15:29:10,368: INFO: common: created directory at: artifacts]
+[2023-09-24 15:29:10,369: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-09-24 15:29:10,369: INFO: data_ingestion: File already exists of size: ~ 23 KB]
+[2023-09-24 15:29:10,372: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2023-09-24 15:29:10,374: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2023-09-24 15:29:10,376: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-09-24 15:29:10,376: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-09-24 15:29:10,376: INFO: common: yaml file: schema.yaml loaded successfully]
+[2023-09-24 15:29:10,376: INFO: common: created directory at: artifacts]
+[2023-09-24 15:29:10,376: INFO: common: created directory at: artifacts/data_validation]
+[2023-09-24 15:29:10,390: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2023-09-24 15:29:10,390: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<]
+[2023-09-24 15:29:10,393: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-09-24 15:29:10,394: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-09-24 15:29:10,396: INFO: common: yaml file: schema.yaml loaded successfully]
+[2023-09-24 15:29:10,396: INFO: common: created directory at: artifacts]
+[2023-09-24 15:29:10,397: INFO: common: created directory at: artifacts/data_transformation]
+[2023-09-24 15:29:10,423: INFO: data_transformation: Splited data into training and test sets]
+[2023-09-24 15:29:10,424: INFO: data_transformation: (1199, 12)]
+[2023-09-24 15:29:10,424: INFO: data_transformation: (400, 12)]
+[2023-09-24 15:29:10,425: INFO: main: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
