@@ -1,7 +1,6 @@
-from MLProjects import logger
-from MLProjects.pipeline.stage_01_data_ingestion import DataIngestionTrainingPipeline
-
-
+from src.mlProject.pipeline.stage_01_data_ingestion import DataIngestionTrainingPipeline
+from mlProject.pipeline.stage_02_data_validation import DataValidationTrainingPipeline
+from mlProject import logger
 
 
 STAGE_NAME = "Data Ingestion stage"
@@ -25,3 +24,6 @@ try:
 except Exception as e:
         logger.exception(e)
         raise e
+
+
+
