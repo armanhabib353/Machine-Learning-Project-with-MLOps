@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/arman/Videos/Machine-Learning-Project-with-MLOps/mlruns/0/18e77749b5944b68a8659e1772e7cc64/artifacts
+end_time: 1695564455748
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 18e77749b5944b68a8659e1772e7cc64
+run_name: masked-wren-978
+run_uuid: 18e77749b5944b68a8659e1772e7cc64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695564452716
+status: 3
+tags: []
+user_id: arman
