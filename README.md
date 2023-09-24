@@ -13,3 +13,9 @@ python 3.8
 7. Update the pipeline 
 8. Update the main.py
 9. Update the app.py
+
+
+MLFLOW_TRACKING_URI=https://dagshub.com/armanhabib353/Machine-Learning-Project-with-MLOps.mlflow \
+MLFLOW_TRACKING_USERNAME=armanhabib353 \
+MLFLOW_TRACKING_PASSWORD=f0aa7923892736fc065a075315b77f33a60b4023 \
+python script.py
